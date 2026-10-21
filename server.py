@@ -321,6 +321,7 @@ def clear_schedule(user: str = "") -> str:
 PAGE = r"""<!doctype html>
 <html lang="fil"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="google-site-verification" content="j5CQ_9UmWxXXWQQi3JRNQlyBKve--_BIBm79ot96oM0" />
 <title>Library</title>
 <style>
 :root{color-scheme:dark;--bg:#0e1420;--panel:#20283a;--purple:#4527a0;--tile:#e6eaf5;--blue:#4285f4;--fg:#eef;--muted:#8b93a7;--chip:#2d3650;--line:rgba(127,127,127,.25)}
